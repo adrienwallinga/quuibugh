@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooyeedeshi.fewbox.com/sitemap.xml
